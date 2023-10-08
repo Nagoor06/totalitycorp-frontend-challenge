@@ -1,15 +1,15 @@
 # totalitycorp-frontend-challenge
 
-## Shopping Web App with React
+## Totality Shopping Web App with React
 Welcome to the shopping web app Totality built with React! This web application offers an extensive selection of clothing and footwear for women, men, and kids, along with various accessories. I've incorporated user-friendly features such as filtering by brand and category, an efficient shopping cart, and a wishlist functionality to enhance your shopping experience. The app also automatically calculates the total cost of items in your cart.
 
 
 ### Table of Contents
-- Features
-- Tech Stack
-- Getting Started
-- Usage
-- License
+* Features
+* Tech Stack
+* Getting Started
+* Usage
+* License
 
 ### Features
 1. Product Categories
@@ -66,13 +66,13 @@ Open your web browser and visit `http://localhost:3000` to access the applicatio
 
 ### Usage
 Here's how you can use this shopping web app:
-- Browse the diverse product categories, including clothing, footwear, and accessories.
-- Easily filter products by brand and category to find items that match your preferences.
-- Click on a product to view its detailed information.
-- Add products to your shopping cart by clicking the "Add to Cart" button.
-- Keep track of selected items and their total cost in the shopping cart.
-- Create a wishlist by adding products you love for future reference.
-- Manage your wishlist and shopping cart as needed.
+* Browse the diverse product categories, including clothing, footwear, and accessories.
+* Easily filter products by brand and category to find items that match your preferences.
+* Click on a product to view its detailed information.
+* Add products to your shopping cart by clicking the "Add to Cart" button.
+* Keep track of selected items and their total cost in the shopping cart.
+* Create a wishlist by adding products you love for future reference.
+* Manage your wishlist and shopping cart as needed.
 
 
 ### License
